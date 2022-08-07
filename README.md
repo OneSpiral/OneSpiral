@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OneSpiral
+- 👀 I’m interested in Psychology, Philosophy and Code.
+- 🌱 I’m currently learning Flutter, Golang and UX.
+- 💞️ I’m looking to collaborate on my little project.
+- 📫 You can send an email to yongzhangpsy@163.com if u have something want to communicate with me.
